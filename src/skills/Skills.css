@@ -1,0 +1,33 @@
+.skill-list{
+   display: flex;
+   justify-content: center;
+   gap: 80px;
+   padding-left: 80px;
+   
+}
+.skill h1{
+    justify-content: center;
+    text-align: center;
+}
+.front-end {
+   border:solid;
+   border-top-left-radius: 80px 20px;
+   background-color: chartreuse;
+}
+.back-end{
+    border: solid;
+    border-top-right-radius:80px 20px ;
+    background-color: chartreuse;
+}
+.front-end ul{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.back-end ul{
+    padding-right: 20px;
+}
+.front-end p, .back-end p{
+    text-transform: uppercase;
+    font-style: oblique;
+    font-weight: bold;
+}

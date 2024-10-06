@@ -1,0 +1,19 @@
+.intro p{
+    text-transform: capitalize;
+    font-size: medium;
+}
+.home{
+    display: flex;
+    gap:50px;
+}
+.intro span{
+    color: rgb(240, 9, 9);
+    font-size: larger;
+}
+.intro{
+    padding-top: 90px;
+}
+.profile-pic img{
+    border: solid;
+    border-radius: 100px;
+}

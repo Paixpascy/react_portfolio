@@ -1,0 +1,37 @@
+.msg p{
+    text-transform: uppercase;
+}
+.contact-list{
+    display: flex;
+    gap: 300px;
+    padding-left: 20px;
+ }
+ .contacts h1{
+   padding-left: 500px;
+   text-transform: uppercase;
+ }
+ .contacts{
+    padding-top: 50px;
+ }
+ h2{
+    text-transform: capitalize;
+ }
+ .icons ul li{
+    list-style: none;
+ }
+.form{
+    display:grid;
+}
+textarea{
+    resize: none;
+}
+.icons ul {
+    padding-top: 60px;
+}
+label{
+    text-transform: capitalize;
+}
+button{
+    cursor: pointer;
+    height: 30px;
+}

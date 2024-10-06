@@ -1,0 +1,21 @@
+.project-list{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    padding-left: 80px;
+    
+ }
+ .projects h1{
+     justify-content: center;
+     text-align: center;
+ }
+ .project2 p,.project3 p{
+    padding-top: 20px;
+ }
+ #projects{
+    padding-top: 30px;
+ }
+ button{
+   cursor: pointer;
+   background-color: gray;
+ }
